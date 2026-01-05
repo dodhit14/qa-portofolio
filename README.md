@@ -27,20 +27,15 @@ Portfolio ini bertujuan untuk menunjukkan kemampuan saya dalam:
 ```
 QA-Portfolio/
 │
-├── Test-Plan/
-│   └── Test Plan - E-commerce
-│
-├── Test-Case/
-│   └── Test Case - Login
-│
-├── Bug-Report/
-│   └── Bug Report - Chat
-│
 ├── API-Testing/
 │   └── sanber_testing_api.postman_collection.json
 │
 └── README.md
 ```
+
+## 📁 Detail Dokumentasi (Google Drive)
+
+👉 https://drive.google.com/drive/folders/1U7sMkgiPzdY1Yu-KKfnGTkIp3j5IwMcr?usp=sharing
 
 ---
 
